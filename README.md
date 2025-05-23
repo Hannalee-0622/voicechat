@@ -75,40 +75,19 @@ This project implements a mobile app that lets users speak, analyze, and receive
 ## Setup & Run / 설치 및 실행
 
 1. **Backend**  
-   ```bash
+
    cd backend
    python3 -m venv venv
    source venv/bin/activate
    pip install -r requirements.txt
    python app.py
-````
-
-**백엔드 실행**
-
-```bash
-cd backend
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python app.py
-```
 
 2. **Mobile**
 
-   ```bash
    cd mobile
    flutter pub get
    flutter run
-   ```
-
-   **모바일 앱 실행**
-
-   ```bash
-   cd mobile
-   flutter pub get
-   flutter run
-   ```
-
+   
 ---
 
 ## Performance / 성능 지표
