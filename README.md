@@ -1,4 +1,4 @@
-# voicechat
+# Voicechat
 
 > **An AI-powered voice conversation mobile app with Python backend and Flutter front end.**  
 > **AI 기반 음성 대화 모바일 앱 (Python 백엔드 + Flutter UI)**
